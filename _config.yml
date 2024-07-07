@@ -24,8 +24,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  Test:"www.baidu.com"
+  Support from: "https://deanattali.com"
+  Test: "www.baidu.com"
 
 ################
 # --- Logo --- #
@@ -55,7 +55,7 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: (use my username)
 # github: (use my username)
-#  twitter: (use my username)
+#  twitter: Pimi_Pan
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  medium: yourname
@@ -91,7 +91,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: ture
   facebook: false
   linkedin: false
   vk: false
@@ -196,7 +196,7 @@ footer-hover-col: "#0085A1"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+#commentbox: "5684280994824192-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
