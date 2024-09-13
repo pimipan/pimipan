@@ -25,7 +25,9 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Support from: "https://deanattali.com"
-  Test: "www.baidu.com"
+  Test: 
+    - Baidu: "www.baidu.com"
+    -Google: "www.google.com" 
 
 ################
 # --- Logo --- #
