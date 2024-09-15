@@ -26,8 +26,8 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Support from: "https://deanattali.com"
   Test: 
-    - Baidu: "www.baidu.com"
-    -Google: "www.google.com" 
+    - Baidu: "https://www.baidu.com"
+    - Google: "https://www.google.com" 
 
 ################
 # --- Logo --- #
