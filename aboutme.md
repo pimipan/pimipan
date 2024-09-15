@@ -6,15 +6,10 @@ subtitle: What you should know about me
 
 # Pimi Pan
 
-- **Male** · 32 years old
-- **Experience**: 9 years 2 months
-- **Expected Salary**: 280k RMB
+- **Age** · 32 years old
+- **Experience**: 9 years
 - **Location**: Shanghai
 - **Education**: Bachelor’s Degree in Thermal Energy and Power Engineering from Shanghai Maritime University
-- **Contact**:  
-  - Phone: 17621199271  
-  - Email: pimipan@hotmail.com  
-  - WeChat: markpimi
 
 ---
 
@@ -26,18 +21,8 @@ With 8 years of experience in facility and infrastructure management, I have suc
 
 ## Certifications
 
-- **2017/05**: MEP Constructor
 - **2021/04**: Pressure Vessel Safety Administrator Level A
-
----
-
-## Career Intention
-
-- **Current Status**: Employed, open for new job opportunities
-- **Target Role**: Property Engineering Management
-- **Expected Salary**: 25-30k RMB × 14 months
-- **Location**: Shanghai
-- **Industry**: Real Estate Development, Real Estate Leasing/Agency
+- **2017/05**: MEP Constructor
 
 ---
 
@@ -45,7 +30,6 @@ With 8 years of experience in facility and infrastructure management, I have suc
 
 ### Evonik  
 **Facility Maintenance Engineer**  
-- **Salary**: 20,000 RMB × 15 months  
 - **Period**: 2021/08 to Present
 
 **Responsibilities & Achievements**:
@@ -119,8 +103,4 @@ With 8 years of experience in facility and infrastructure management, I have suc
 
 ---
 
-## Languages
-
-- English
-- Mandarin
 
