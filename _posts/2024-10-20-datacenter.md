@@ -4,6 +4,7 @@ title: 数据中心建设经验
 comments: true
 author: Pimi
 ---
+
 ## 分类
 相比国标中的文字描述，美标中N+X的描述方式更加精准，适合书面沟通。
 
