@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 数据机房基础设施
+title: 数据中心建设经验
 comments: true
 author: Pimi
 ---
