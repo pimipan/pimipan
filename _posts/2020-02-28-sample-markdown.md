@@ -7,6 +7,8 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 author: Bill Smith
+toc: true
+toc_float: true
 ---
 
 {: .box-success}
