@@ -4,16 +4,16 @@ title: Pimi‘s resume
 ---
 
 ### Summary
-Over 10 years of operations management experience across high-rise tower, cleanrooms, biological laboratories, and manufacturing facilities. Responsible for developing and implementing preventive maintenance plans, achieving a 30% reduction in equipment downtime. Extensive project management experience, successfully leading over 10 equipment upgrade and maintenance projects with a total investment exceeding 30 million RMB. Collaborated closely with internal departments and external vendors, reducing complaint rates by 20% and continuously improving facility management processes to enhance operational performance. Proficient in HVAC, plumbing, and electrical systems, holding relevant professional certifications.
+Over 10 years of operations management experience across **high-rise tower**, **cleanrooms**, **biological laboratories**, and **manufacturing facilities**. Responsible for developing and implementing preventive maintenance plans, achieving a 30% reduction in equipment downtime. Extensive project management experience, successfully leading over 10 equipment upgrade and maintenance projects with a total investment exceeding 30 million RMB. Collaborated closely with internal departments and external vendors, reducing complaint rates by 20% and continuously improving facility management processes to enhance operational performance. Proficient in HVAC, plumbing, and electrical systems, holding relevant professional certifications.
 
 ### Education
-**Shanghai Maritime University**
-Bachelor’s Degree in Thermal Energy and Power Engineering
-2011/09 – 2015/06
+**Shanghai Maritime University**  
+Bachelor’s Degree in Thermal Energy and Power Engineering  
+2011/09 – 2015/06  
 
 ### Certifications
-• MEP Constructor – May 2017
-• Pressure Vessel Safety Administrator Level A – April 2021
+• MEP Constructor – May 2017  
+• Pressure Vessel Safety Administrator Level A – April 2021  
 
 ### Work Experience
 #### Evonik – Facility Maintenance Engineer
