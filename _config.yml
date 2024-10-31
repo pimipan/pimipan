@@ -22,11 +22,11 @@ author: Pimi Pan
 navbar-links:
   About Me: "aboutme"
   Resume:"aboutme"
-  Support from: "https://deanattali.com"
-  简历:
-  Test: 
+  简历:"简历"
+  分享案例: 
     - Baidu: "https://www.baidu.com"
     - Google: "https://www.google.com" 
+  Support from: "https://deanattali.com"
 
 ################
 # --- Logo --- #
