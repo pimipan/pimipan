@@ -16,6 +16,7 @@ Bachelor’s Degree in Thermal Energy and Power Engineering
 • Pressure Vessel Safety Administrator Level A – April 2021  
 
 ### Work Experience
+
 #### Evonik – Facility Maintenance Engineer
 2021/08 – Present
 1. Managed daily maintenance of facility-related equipment and buildings across multiple sites, ensuring compliance with safety regulations
