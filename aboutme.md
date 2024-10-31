@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: What you should know about me
+title: Pimi‘s resume
 ---
 
 ### Summary
