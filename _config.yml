@@ -21,10 +21,9 @@ author: Pimi Pan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume:"aboutme"
   Support from: "https://deanattali.com"
+  简历:
   Test: 
     - Baidu: "https://www.baidu.com"
     - Google: "https://www.google.com" 
